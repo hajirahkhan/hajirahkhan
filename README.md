@@ -4,7 +4,6 @@ My name is Hajirah Khan. I am a Junior at DePaul University majoring in Data Sci
 I have extensive experience with Java, Python, SQL, SAS, and SPSS, and the ability to write high quality code with real world applications.
 
 How to reach me: 
-Phone: 224-817-1222
 Email: hajirahk0914@gmail.com
 
 
